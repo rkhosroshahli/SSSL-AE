@@ -1,0 +1,2 @@
+model_checkpoint_path: "VAE_MNIST_50epochs_128batch_50000train_vae_weights"
+all_model_checkpoint_paths: "VAE_MNIST_50epochs_128batch_50000train_vae_weights"
